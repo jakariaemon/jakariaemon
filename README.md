@@ -26,7 +26,9 @@
 - 🔭 I’m currently working on Speech Processing, Transformers, ASR. 
 - 🌱 I’m currently learning Rust, MLOps. 
 - 👯 I’m looking to collaborate on Vision Transformer. 
-- 💬 Ask me about AI. 
+- 💬 Ask me about AI.
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakariaemon&theme=darcula&layout=compact)](https://github.com/jakariaemon)
 
 ![emon_j's Stats](https://github-readme-stats.vercel.app/api?username=jakariaemon&theme=darcula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&line_height=24)
 

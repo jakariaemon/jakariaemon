@@ -16,7 +16,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FF6F59?style=flat-square&logo=huggingface&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FF6F59?style=flat-square&logo=huggingface&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 
 
 - 🔭 I’m currently working on Speech Proceesing, Transformers, ASR. 

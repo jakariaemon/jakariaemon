@@ -19,13 +19,9 @@
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FF6F59?style=flat-square&logo=huggingface&logoColor=white)
 
 
-
-
-
-
-
 - 🔭 I’m currently working on Speech Proceesing, Transformers, ASR. 
 - 🌱 I’m currently learning Rust, MLOps. 
 - 👯 I’m looking to collaborate on Vision Transformer. 
 - 💬 Ask me about AI. 
 
+![emon_j's Stats](https://github-readme-stats.vercel.app/api?username=jakariaemon&theme=darcula&show_icons=true&hide_border=true&count_private=true)

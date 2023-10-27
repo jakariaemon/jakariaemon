@@ -3,6 +3,8 @@
 </p>
 <p align="center"> こんにちは！ よろしくお願いします。</p> 
 
+### 🛠 &nbsp;Technologies & Tools
+
 ![Python](https://img.shields.io/badge/Python-43853d?style=flat-square&logo=python&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)&nbsp;

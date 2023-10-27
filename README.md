@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://slackmojis.com/emojis/71359-robotq/" alt="Robot emoji" width="30" />
+  <img src="assets/images/robotq.gif" alt="Robot emoji" width="30" />
 </p>
 <h1>Hey! Nice to see you. </h1>
 <h2>こんにちは！ よろしくお願いします。</h2>

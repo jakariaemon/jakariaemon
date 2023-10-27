@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Cool sunglasses emoji" width="30" />
+  <img src="https://slackmojis.com/emojis/71359-robotq/" alt="Robot emoji" width="30" />
 </p>
 <h1>Hey! Nice to see you. </h1>
 <h2>こんにちは！ よろしくお願いします。</h2>

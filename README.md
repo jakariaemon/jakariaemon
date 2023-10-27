@@ -1,4 +1,6 @@
-<h1 align="center"><img src="assets/images/robotq.gif" alt="Robot emoji" width="50" /> Hey! Nice to see you. </h1>
+<p align="center">
+  <img src="assets/images/robotq.gif" alt="Description" width="30" /> Hey! Nice to see you.
+</p>
 <h2 align="center"> こんにちは！ よろしくお願いします。</h2>
 
 - 🔭 I’m currently working on Speech Proceesing, Transformer, ASR. 

@@ -27,5 +27,6 @@
 - 🌱 I’m currently learning Rust, MLOps. 
 - 👯 I’m looking to collaborate on Vision Transformer. 
 - 💬 Ask me about AI.
-  
+
+![](https://raw.githubusercontent.com/jakariaemon/snake/output/github-contribution-grid-snake.svg)
 

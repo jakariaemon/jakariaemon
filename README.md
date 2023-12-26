@@ -30,8 +30,6 @@
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakariaemon&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jakariaemon&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jakariaemon&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakariaemon&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jakariaemon&theme=gruvbox&utcOffset=9)
 

@@ -28,14 +28,14 @@
 - 👯 I’m looking to collaborate on Vision Transformer. 
 - 💬 Ask me about AI.
 
-![](https://raw.githubusercontent.com/jakariaemon/snake/output/github-contribution-grid-snake.svg)
-
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakariaemon&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakariaemon&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jakariaemon&theme=gruvbox&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=jakariaemon&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=jakariaemon&theme=gruvbox) 
+
+![](https://raw.githubusercontent.com/jakariaemon/snake/output/github-contribution-grid-snake.svg)
 
 

@@ -36,6 +36,6 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=jakariaemon&theme=gruvbox) 
 
-![](https://raw.githubusercontent.com/jakariaemon/snake/output/github-contribution-grid-snake.svg)
+[](https://raw.githubusercontent.com/jakariaemon/snake/output/github-contribution-grid-snake.svg)
 
 

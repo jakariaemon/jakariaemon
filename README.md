@@ -28,10 +28,7 @@
 - 👯 I’m looking to collaborate on Vision Transformer. 
 - 💬 Ask me about AI.
 
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakariaemon&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakariaemon&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jakariaemon&theme=gruvbox&utcOffset=9)
+
 
 
 

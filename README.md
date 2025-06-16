@@ -23,10 +23,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 
 
-- 🔭 I’m currently working on Speech Processing, Transformers, ASR. 
-- 🌱 I’m currently learning Rust, MLOps. 
-- 👯 I’m looking to collaborate on Vision Transformer. 
-- 💬 Ask me about AI.
 
 
 
